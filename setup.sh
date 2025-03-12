@@ -5,4 +5,4 @@ cp -av goofyahh ~/bin
 
 echo 'export PATH=$PATH":$HOME/bin"' >> Users/YOURHOMEDIR/.zprofile
 
-source Users/YOURHOMEDIR/.zprofile
+source Users/YOURHOMEDIR/.zprofile 
